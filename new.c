@@ -8,6 +8,7 @@ int gpio_driver_close(void);
 int main(int argc,char** argv){
 	
 	printf("Hello Git!\n");
+	asdfafsfafsa;
 	return 0;
 
 }
